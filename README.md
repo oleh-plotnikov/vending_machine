@@ -1,1 +1,8 @@
-Synthesizable FSM for controlling vending machine (VM). This VM support a set of products for sale: different kinds of coffee (espresso, americano, latte), tea, milk, hot chocolate, chocolate bars (nuts, snickers, bounty), some kinds of chewing gums, etc. 
+# This project is a mailstone project of second year master student of NTUU "KPI".
+## Course: Verification and Testing
+
+You can run verification in interective mode by run ```run.bat```
+
+You can run verification with gui by run ```run_with_gui.bat```
+
+Compiled with ```ModelSim 10.2c``` on Windows machine
