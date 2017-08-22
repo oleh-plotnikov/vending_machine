@@ -1,1 +1,1 @@
-# vending_machine
+Synthesizable FSM for controlling vending machine (VM). This VM support a set of products for sale: different kinds of coffee (espresso, americano, latte), tea, milk, hot chocolate, chocolate bars (nuts, snickers, bounty), some kinds of chewing gums, etc. 
